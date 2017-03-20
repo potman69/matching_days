@@ -1,0 +1,57 @@
+body {
+    background-color: blanchedalmond
+    
+}
+
+h1 {
+    text-align: center;
+    color: darkorchid;
+    background-color: aqua;
+    font-size: 70px;
+    border-style: double;    
+}
+#dates {
+    text-align: center;
+    background-color: lawngreen;
+    font-size: 30px;
+    border-style: dashed;
+}
+
+.table caption {
+    background-color: cyan;
+    
+}
+
+.table, th, td {   
+    
+    border: 3px solid black;
+    font-size: 22px;
+    margin-bottom: 40px;
+    background-color: coral;    
+}
+.table {
+    margin-left:auto; 
+    margin-right:auto;       
+}
+
+th, td {
+    padding: 20px;    
+}
+
+#button1 {
+    text-align: center;    
+}
+#button {
+    font-size: 25px;
+    background-color: aqua;
+}
+.highlight1{
+    background-color: magenta;
+}
+.highlight2{
+    background-color: red;
+}
+.highlight3{
+    background-color: green;
+}
+
